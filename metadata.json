@@ -1,5 +1,5 @@
 {
-  "name": "Aceh Education Poster Generator",
+  "name": "AcehPosterGen",
   "description": "A tool to generate official school event documentation posters with customizable images and text, following the Aceh Government Dinas Pendidikan visual standard.",
   "requestFramePermissions": []
 }
